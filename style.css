@@ -13,22 +13,6 @@ body {
 	border-radius: 2px;
 }
 
-/*--------------------- WEATHER ALERT ---------------------------*/
-
-#weather {
-	background-color: red;
-	width: 100%;
-	padding: 5px 0px;
-	margin-bottom: 20px;
-	box-shadow: 0 0 15px rgba(50, 50, 50, 1);
-}
-
-#weather h1, h3 {
-	text-align: center;
-}
-
-/*---------------------------------------------------------------*/
-
 header {
 	width: 96%;
 	min-height: 125px;
