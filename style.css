@@ -153,6 +153,16 @@ span {
 	box-shadow: 0 0 15px rgba(50, 50, 50, 1);
 }
 
+#coupon img {
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 99%;
+	border-radius: 4px;
+	border: #322F2C solid 5px;
+	box-shadow: 0 0 15px rgba(50, 50, 50, 1);
+}
+
 .top a {
 	color: #707070;
 }
