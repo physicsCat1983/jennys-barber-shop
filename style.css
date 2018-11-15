@@ -181,6 +181,10 @@ span {
 	font-size: 20px;
 }
 
+.map{
+	color: red;
+}
+
 /* ----------- Media Queries ----------- */
 
 @media screen and (max-width: 740px) {
