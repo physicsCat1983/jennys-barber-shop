@@ -181,6 +181,12 @@ span {
 	font-size: 20px;
 }
 
+.facebook-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+}
+
 .map{
 	color: red;
 }
