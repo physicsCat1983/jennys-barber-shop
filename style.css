@@ -62,12 +62,12 @@ nav ul li a:hover, nav ul li.active a {
 	clear: both;
 }
 
-.banner img {
+/*.banner img {
 	width: 99%;
 	border-radius: 4px;
 	border: #322F2C solid 5px;
 	box-shadow: 0 0 15px rgba(50, 50, 50, 1);
-}
+}*/
 
 #christmas-banner .xmas img {
 	width: 99%;
