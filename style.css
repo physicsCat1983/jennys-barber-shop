@@ -69,16 +69,8 @@ nav ul li a:hover, nav ul li.active a {
 	box-shadow: 0 0 15px rgba(50, 50, 50, 1);
 }
 
-.christmas-banner #xmas {
+#christmas-banner .xmas {
 	width: 99%;
-	text-align: center;
-	max-width: 100%;
-	height: auto;
-	width: auto;
-	margin-bottom: 60px;
-}
-
-#xmas img {
 	text-align: center;
 	max-width: 100%;
 	height: auto;
