@@ -21,14 +21,14 @@ header {
 	text-align: center;
 }
 
-img {
+/*img {
 	text-align: center;
 	max-width: 100%;
 	height: auto;
 	width: auto;
 	margin-bottom: 60px;
 	box-shadow: 0 0 15px rgba(50, 50, 50, 1);
-}
+}*/
 
 nav ul {
 	list-style: none;
