@@ -155,6 +155,11 @@ div #windowSign .schedule-appt img {
 	box-shadow: none;
 }
 
+div .schedule-appt img {
+	border: none;
+	box-shadow: none;
+}
+
 #aboutMe img {
 	display: inline-block;
 	margin-left: auto;
