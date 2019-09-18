@@ -76,6 +76,11 @@ nav ul li a:hover, nav ul li.active a {
 	box-shadow: none;
 }
 
+.schedule-appt a img {
+	border: none;
+	box-shadow: none;
+}
+
 #content {
 	text-align: center;
 }
@@ -151,11 +156,6 @@ span {
 }
 
 div #windowSign .schedule-appt img {
-	border: none;
-	box-shadow: none;
-}
-
-div #wrapper .schedule-appt img {
 	border: none;
 	box-shadow: none;
 }
