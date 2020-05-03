@@ -255,13 +255,15 @@
 						<img id="doPrint" src="images/coupon.jpg" alt="New Customer Coupon" title="New Customer Coupon" /><br>
 					</p>
 					
-					document.getElementById("doPrint").addEventListener("click", function() {
-					     var printContents = document.getElementById('coupon').innerHTML;
-					     var originalContents = document.body.innerHTML;
-					     document.body.innerHTML = printContents;
-					     window.print();
-					     document.body.innerHTML = originalContents;
-					});
+					<script>
+						  document.getElementById("doPrint").addEventListener("click", function() {
+						  var printContents = document.getElementById('coupon').innerHTML;
+						  var originalContents = document.body.innerHTML;
+						  document.body.innerHTML = printContents;
+						  window.print();
+						  document.body.innerHTML = originalContents;
+						  });
+					</script>
 					<!-- ********************* End Coupon ************************** -->
 					
 					<div align="center">
